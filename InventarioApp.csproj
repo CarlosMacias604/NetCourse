@@ -14,7 +14,7 @@
   </PropertyGroup>
 	
   <ItemGroup>
-    <Folder Include="src\" />
+    <Folder Include="src\Models\" />
   </ItemGroup>
 
 </Project>
